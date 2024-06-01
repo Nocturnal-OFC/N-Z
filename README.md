@@ -1,1 +1,1 @@
-Compile: ```https://nocturnal-ofc.github.io/N-Z/```
+Compile: https://nocturnal-ofc.github.io/N-Z/
